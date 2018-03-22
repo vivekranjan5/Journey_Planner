@@ -1,0 +1,47 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  third_ac: false
+  arrival_time: 2018-03-17 23:12:05
+  source_station_code: MyString
+  name: MyString
+  zone: MyString
+  chair_car: false
+  first_class: false
+  duration_m: 1
+  sleeper: false
+  source_station_name: MyString
+  number: 1
+  departure_time: 2018-03-17 23:12:05
+  return_train: 1
+  destination_station_code: MyString
+  second_ac: false
+  classes: MyString
+  destination_station_name: MyString
+  duration_h: 1
+  type: 
+  first_ac: false
+  distance: 1.5
+
+two:
+  third_ac: false
+  arrival_time: 2018-03-17 23:12:05
+  source_station_code: MyString
+  name: MyString
+  zone: MyString
+  chair_car: false
+  first_class: false
+  duration_m: 1
+  sleeper: false
+  source_station_name: MyString
+  number: 1
+  departure_time: 2018-03-17 23:12:05
+  return_train: 1
+  destination_station_code: MyString
+  second_ac: false
+  classes: MyString
+  destination_station_name: MyString
+  duration_h: 1
+  type: 
+  first_ac: false
+  distance: 1.5
